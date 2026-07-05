@@ -1,6 +1,6 @@
 # AI-Powered Email Outreach Automation
 
-## 📌 Overview
+##  Overview
 
 This project is an AI-powered email outreach automation built with **n8n**, **Groq LLM**, **Google Sheets**, and **Gmail**.
 
@@ -8,7 +8,7 @@ The workflow automatically reads customer data from Google Sheets, generates per
 
 ---
 
-## 🚀 Workflow
+## Workflow
 
 Google Sheets (Read Leads)
 ↓
@@ -22,7 +22,7 @@ Google Sheets (Update Status)
 
 ---
 
-## ✨ Features
+##  Features
 
 * Reads lead data from Google Sheets
 * Generates personalized outreach emails using AI
@@ -32,7 +32,7 @@ Google Sheets (Update Status)
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 * n8n
 * Groq API
@@ -42,7 +42,7 @@ Google Sheets (Update Status)
 
 ---
 
-## 📈 Skills Demonstrated
+##  Skills Demonstrated
 
 * AI Workflow Automation
 * Prompt Engineering
@@ -53,12 +53,12 @@ Google Sheets (Update Status)
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 
 (Add screenshots here after uploading them.)
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Aditya Bagwe
